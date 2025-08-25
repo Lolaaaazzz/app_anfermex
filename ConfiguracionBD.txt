@@ -1,7 +1,0 @@
-# --- Configuración de la Base de Datos (COMO LA TENÍAS CONFIGURADA) ---
-DB_CONFIG = {
-    'host': '127.0.0.1',
-    'user': 'root',
-    'password': 'ALdrinruiz01', # ¡RECUERDA CAMBIAR ESTO POR TU CONTRASEÑA REAL!
-    'database': 'sedena'
-}
